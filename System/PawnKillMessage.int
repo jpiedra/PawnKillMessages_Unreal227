@@ -1,0 +1,2 @@
+[Public]
+Object=(Name=PawnKillMessage.PawnKillMessage,Class=Class,MetaClass=Engine.Mutator,Description="PawnKillMessage, Prints messages every time a player kills a ScriptedPawn.")
